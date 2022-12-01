@@ -346,9 +346,9 @@ viewAllText = 'undefined' != typeof viewAllText ? viewAllText : pbt.viewAll, $('
     $('a#probtemplates').each(function () {
         var _2 = $(this),
             _3 = 'visibility:visible!important;opacity:1!important;position:relative!important;z-index:1!important;font-size:14px!important;color:var(--footerbar-color)!important;margin:0!important;';
-        _2.attr('href', 'https://probloggertemplates.com/').text('Muhammad Israr').attr('style', 'visibility:visible!important;opacity:1!important;position:relative!important;z-index:1!important;font-size:14px!important;color:var(--main-color)!important;margin:0!important;'), _2.parent().attr('style', _3).parent().attr('style', _3)
+        _2.attr('href', 'https://myblogs2838.blogspot.com/').text('Muhammad Israr').attr('style', 'visibility:visible!important;opacity:1!important;position:relative!important;z-index:1!important;font-size:14px!important;color:var(--main-color)!important;margin:0!important;'), _2.parent().attr('style', _3).parent().attr('style', _3)
     }), setInterval(function () {
-        $('a#probtemplates').length || (window.location.href = 'https://probloggertemplates.com/'), $('a#probtemplates:visible').length || (window.location.href = 'https://probloggertemplates.com/')
+        $('a#probtemplates').length || (window.location.href = 'https://myblogs2838.blogspot.com/'), $('a#probtemplates:visible').length || (window.location.href = 'https://myblogs2838.blogspot.com/')
     }, 1e3), $('.entry-image-link .entry-image,.author-avatar-wrap .author-avatar').pbtLazy(), $('.mobile-logo').each(function () {
         var _2 = $(this),
             _3 = $('.main-logo a').clone();
